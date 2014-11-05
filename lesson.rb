@@ -19,7 +19,7 @@ class Animal
   end
 end
 
-class Dog < Animal
+class Dog
 
   attr_reader :name
 

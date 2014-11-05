@@ -1,5 +1,3 @@
-require 'open3'
-
 class SolutionsController < ApplicationController
 
 	def show

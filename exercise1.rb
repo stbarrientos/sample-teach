@@ -13,7 +13,15 @@ class Person
   end
 end
 
-class Student < Person
+class Student
+
+  def greet
+    puts "hello"
+  end
+
+  def work
+    puts "working..."
+  end
 
   def study
     puts "studying..."
@@ -24,7 +32,7 @@ class Student < Person
   end
 end
 
-class Tarzan < Person
+class Tarzan
 
   def greet
     puts "Tarzan"
@@ -47,3 +55,7 @@ sally.work # Should output "working..."
 sally.play # Should output "No, I have homework"
 tarzan.greet # Should output "Tarzan"
 tarzan.play # Should output "Tarzan love play"
+
+########## Bonus 1 ############
+
+# Create a new class named Nerd that inherits from student. Will it inherit the methods from Person, or Student? Or both?
