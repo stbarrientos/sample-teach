@@ -58,4 +58,4 @@ tarzan.play # Should output "Tarzan love play"
 
 ########## Bonus 1 ############
 
-# Create a new class named Nerd that inherits from student. Will it inherit the methods from Person, or Student? Or both?
+# Create a new class named Nerd that inherits from student. Will it inherit the methods from Person, or Student? Or both Try it out!
