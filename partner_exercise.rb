@@ -50,3 +50,7 @@ salsa.food_count # Make this output 1 (Don't change the initialize method in the
 
 ################### Bonus 2 ##################
 
+# Explain why we would use this syntax in rails: class User < ActiveRecord::Base
+# You can read up here: http://api.rubyonrails.org/classes/ActiveRecord/Base.html
+
+
