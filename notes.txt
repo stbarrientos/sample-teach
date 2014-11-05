@@ -1,0 +1,71 @@
+Let students work in groups.
+Talk for about 50% of the time, they want to hear from an expert.
+Guage student interaction, always be open to questions.
+Make sure to include applications of what you're teaching, it has to have a purpose.
+Students should be active learners, they are motivated intrinsically so you have to let them learn actively.
+
+
+Checklist:
+Students know what to expect (write out agenda)
+Learning objectives are visible (write on board)
+Keep time, don't let lessons go over time or under time
+Devote time to practice, not just lecture
+Make sure students are learning, check early and often
+
+Tactics:
+Think, Pair, Share - Think for a minute, talk to your partner, share with the class
+Fist of five - on a scale from 0 to 5 rate how comfortable you are
+
+Lesson Specific Guidelines:
+Communicate what your students will learn, why it is important, how it realates to previous lessons, communicate how it will be taught.
+Tell them how to behave, "raise your hands at any time if you have questions"
+Determine what students should be able to do by the end of the lesson
+Use multiple approaches to convey the new information
+What will the students be doing during the lesson
+How will you guage student understanding? Target misunderstanding and understanding
+Creativity is a means, not an end. Make sure any activities don't distract away from what the lesson is designed to teach
+Don't single out students to present, let everyone participate
+Practice exercises should start easy and then get hard
+If you have time left, continue to engage students with problems of increasing complexity
+If a lot of students don't understand the concept, give more ooportunities for practice and time to ask questions
+If there is a gap inunderstanding, assign bonus and double bonus to keep the smartest students occupied while the other students catch up
+Don't drown students in details, emphasize key points
+Be mindful of potential pitfalls
+Emphasize the objective of the lesson, significance of the lesson, and assess student mastery at the end of the lesson
+
+Lesson Plan:
+
+Objectives: Class Inheritance, What is it? Why do we use it?
+Agenda: Instruction, Partner Work, Regroup, Solo Work
+
+Intro (1 min):
+
+  Quick refresh of OOP (classes and methods)
+  Show a before example on the overhead (two classes with common methods)
+
+Lecture (5 min):
+
+  Show inheritance in code
+  Show an after example of the intro code
+  Explain what is happening, prove it with output
+  Introduce bugs, address potential sources of misunderstand
+  Show an example in rails just so the students can see how it relates
+
+Class Assignment (5 min):
+
+  Fist of 5 test.
+  Write, pair, share. Give the students a short assignment.
+  Tell them to try to come up with something on their own and then pair up.
+
+Eval (2 min):
+
+  Take volunteers then go over the assignment as a class.
+
+Individual Assignment (5 min):
+
+  Take on the assignment alone. Feel free to ask me questions or use google/stack overflow etc. but do your best to get a feel for how it works.
+
+Close (2 min):
+
+  Group discussion. Ask students to talk about what inheritance is and what it does.
+  Make sure everyone understands what is happening.
