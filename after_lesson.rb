@@ -6,12 +6,12 @@ class Animal
     @name = name
   end
 
-  def sleep
-    puts "#{@name} says: ZzzZzzZ"
-  end
-
   def eat
     puts "#{@name} says: yum"
+  end
+
+  def sleep
+    puts "#{@name} says: ZzzZzzZ"
   end
 
   def run
@@ -27,10 +27,22 @@ class Dog < Animal
     @name = name
   end
 
+  def eat
+    puts "#{@name} says: yum"
+  end
+
+  def sleep
+    puts "#{@name} says: ZzzZzzZ"
+  end
+
+  def run
+    puts "#{@name} says: running..."
+  end
 end
 
-zebra = Animal.new("Zebra")
-puppy = Animal.new("Sparky")
+zebra = Animal.new("zebra")
+puppy = Dog.new("Sparky")
 
-zebra.run
+puppy.sleep
+puppy.eat
 puppy.run
