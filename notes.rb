@@ -32,7 +32,7 @@ shopping_list = []
 shopping_list << "carrots"
 
 # Oh wait! We need milk too! Let's add that as well. And we need some lettuce!
-shopping_list.push("milk", "lettuce")
+shopping_list.push("milk", "lettuce") # This will add both items to the end of the array
 
 # And of course... while checking the fridge, we found some carrots.
 # Keep in mind, the carrots were the first thing we added, so they will be at the front of the array.
