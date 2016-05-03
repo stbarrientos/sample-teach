@@ -12,4 +12,4 @@ To get the assignment:
 To get the notes:  
 `curl -o shopping_list_complete.rb https://raw.githubusercontent.com/stbarrientos/sample-teach/master/shopping_list_complete.rb`  
 
-Please wait to start on these exercises until they are assigned.
+Please wait to start on the assignment until it is assigned.
