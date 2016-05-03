@@ -10,17 +10,26 @@
 =end
 
 def practice_one
-  # Create an array with three elements in it.
+  # Create an array
 
-  # Print out only the second element
+  # Add three elements to the end of it.
+
+  # Add one element to the front of it.
+
+  # Now print out only the second element
 
 end
 
 def practice_two
-  # Create an array with as many elements as you like
+  # I've created an array for you
+  array = ["Ruby", "BEWD", "Learning"]
 
   # Loop through the array and print out each element with the phrase "Is Cool!" after it.
-  # For example, if your array has an item "Sam" in it, print out "Sam Is Cool!"
+  # For example, the first thing printed out would be "Ruby Is Cool!"
+  # Here is some starter code:
+  array.each do |item|
+
+  end
 end
 
 def practice_three
